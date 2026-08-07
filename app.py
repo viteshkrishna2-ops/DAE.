@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11EIynBbnisXqX3T5KRoE4_fRIxb37dqH
 """
 
-!pip install pandas numpy matplotlib seaborn scikit-learn
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
